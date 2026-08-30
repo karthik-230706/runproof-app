@@ -1,0 +1,3 @@
+import unittest
+class T(unittest.TestCase):
+    def test_example(self): self.assertTrue(True)

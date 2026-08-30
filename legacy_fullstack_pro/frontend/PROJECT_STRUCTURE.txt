@@ -1,0 +1,20 @@
+RunProof_Frontend/
+│
+├── index.html
+├── README.md
+├── BACKEND_INTEGRATION.md
+├── PROJECT_STRUCTURE.txt
+│
+├── styles/
+│   └── main.css
+│
+├── scripts/
+│   └── app.js
+│
+├── assets/
+│
+└── pages/
+    (Reserved for future multi-page versions)
+
+Current prototype is a Single Page Application (SPA).
+All screens are rendered from scripts/app.js.

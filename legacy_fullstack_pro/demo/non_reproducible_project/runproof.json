@@ -1,0 +1,1 @@
+{"build":["python","build.py"],"test":["python","-m","unittest","discover","-s","tests","-v"],"artifacts":["dist/app.txt"]}

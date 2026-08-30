@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+data/
+.env
+*.log
+runproof-report.html
+runproof-passport.json
+runproof-evidence.zip

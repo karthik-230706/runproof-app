@@ -1,0 +1,2 @@
+# fully pinned demo dependency metadata (not actually required by the demo code)
+requests==2.32.5
